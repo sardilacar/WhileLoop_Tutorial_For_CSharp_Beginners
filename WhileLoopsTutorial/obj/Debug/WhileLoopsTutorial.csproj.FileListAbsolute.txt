@@ -1,0 +1,8 @@
+C:\Users\ardil\OneDrive\Masaüstü\C#\Conditions\Loops\WhileLoopsTutorial\WhileLoopsTutorial\bin\Debug\WhileLoopsTutorial.exe.config
+C:\Users\ardil\OneDrive\Masaüstü\C#\Conditions\Loops\WhileLoopsTutorial\WhileLoopsTutorial\bin\Debug\WhileLoopsTutorial.exe
+C:\Users\ardil\OneDrive\Masaüstü\C#\Conditions\Loops\WhileLoopsTutorial\WhileLoopsTutorial\bin\Debug\WhileLoopsTutorial.pdb
+C:\Users\ardil\OneDrive\Masaüstü\C#\Conditions\Loops\WhileLoopsTutorial\WhileLoopsTutorial\obj\Debug\WhileLoopsTutorial.csproj.AssemblyReference.cache
+C:\Users\ardil\OneDrive\Masaüstü\C#\Conditions\Loops\WhileLoopsTutorial\WhileLoopsTutorial\obj\Debug\WhileLoopsTutorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\ardil\OneDrive\Masaüstü\C#\Conditions\Loops\WhileLoopsTutorial\WhileLoopsTutorial\obj\Debug\WhileLoopsTutorial.csproj.CoreCompileInputs.cache
+C:\Users\ardil\OneDrive\Masaüstü\C#\Conditions\Loops\WhileLoopsTutorial\WhileLoopsTutorial\obj\Debug\WhileLoopsTutorial.exe
+C:\Users\ardil\OneDrive\Masaüstü\C#\Conditions\Loops\WhileLoopsTutorial\WhileLoopsTutorial\obj\Debug\WhileLoopsTutorial.pdb
